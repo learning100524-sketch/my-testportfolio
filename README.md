@@ -80,4 +80,4 @@ To personalize this portfolio:
 
 ## License
 
-All rights reserved.
+MIT License - Feel free to use this portfolio template for your own projects.
